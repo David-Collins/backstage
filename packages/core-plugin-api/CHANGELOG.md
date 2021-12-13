@@ -1,5 +1,11 @@
 # @backstage/core-plugin-api
 
+## 0.3.1
+
+### Patch Changes
+
+- 8a7372cfd5: Deprecated `auth0AuthApiRef`, `oauth2ApiRef`, `oidcAuthApiRef`, `samlAuthApiRef`, and marked the rest of the auth `ApiRef`s as experimental. For more information on how to address the deprecations, see https://backstage.io/docs/api/deprecations#generic-auth-api-refs.
+
 ## 0.3.0
 
 ### Minor Changes
